@@ -4,7 +4,7 @@ import ranabima from "../images/thurstanofficial_logo.jpg";
 import LetsGrow from "../images/LetsGrow.png";
 import deepnix from "../images/deepnix.jpg";
 import SkillSwap from "../images/SkillSwapwebsitelogo.jpg";
-import autodoc from "../images/autodoc.png";
+import VEMS from "../images/VEMS.jpg";
 import vetez from "../images/vetez.jpg";
 
 
@@ -353,54 +353,56 @@ export const projects = [
   },
   {
     id: 1,
-    title: "AutoDOC",
+    title: "Vehicle Entrance Management System (VEMS)",
     date: "Jan 2024 - May 2024",
     description:
       "AutoDOC website is a digital platform that streamlines the process of booking, tracking, and managing vehicle maintenance and repair services. It allows customers to schedule service appointments, view service history, and connect with service providers efficiently, improving overall customer experience and workshop productivity.",
-    image:autodoc,
+    image:VEMS,
     tags: [
       "React Js",
       "HTML",
       "CSS",
       "Node Js",
       "Express Js",
+      "python",
+      "OpenCV",
       "MySQL",
     ],
-    category: "web app",
-    github: "https://github.com/Sachinthajayaweera/autodoc",
+    category: "machine learning",
+    github: "https://github.com/DewakaPasindu/Vehicle-Management-System",
     // webapp: "https://vexa-app.netlify.app/",
-    member: [
-      {
-        name: "Visal Hewage",
-        img: `https://github.com/Visal2000.png`,
-        //linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/Visal2000",
-      },
-      {
-        name: "Tharusha Ishan",
-        img: `https://github.com/Tharusha553.png`,
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/Tharusha553",
-      },
-      {
-        name: "Erandi Hansika",
-        img: `https://github.com/Erandi9924.png`,
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/Erandi9924",
-      },
-      {
-        name: "Sachintha Jayaweera",
-        img: `https://github.com/Sachinthajayaweera.png`,
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/Sachinthajayaweera",
-      },
-      {
-        name: "Chamika Herath",
-        img: `https://github.com/Chamika-Herath.png`,
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/Chamika-Herath",
-      },
-    ],
+    // member: [
+    //   {
+    //     name: "Visal Hewage",
+    //     img: `https://github.com/Visal2000.png`,
+    //     //linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/Visal2000",
+    //   },
+    //   {
+    //     name: "Tharusha Ishan",
+    //     img: `https://github.com/Tharusha553.png`,
+    //     //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/Tharusha553",
+    //   },
+    //   {
+    //     name: "Erandi Hansika",
+    //     img: `https://github.com/Erandi9924.png`,
+    //     //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/Erandi9924",
+    //   },
+    //   {
+    //     name: "Sachintha Jayaweera",
+    //     img: `https://github.com/Sachinthajayaweera.png`,
+    //     //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/Sachinthajayaweera",
+    //   },
+    //   {
+    //     name: "Chamika Herath",
+    //     img: `https://github.com/Chamika-Herath.png`,
+    //     //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/Chamika-Herath",
+    //   },
+    //],
   },
 
 
