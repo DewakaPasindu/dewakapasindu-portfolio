@@ -5,7 +5,7 @@ import LetsGrow from "../images/LetsGrow.png";
 import deepnix from "../images/deepnix.jpg";
 import SkillSwap from "../images/SkillSwapwebsitelogo.jpg";
 import VEMS from "../images/VEMS.jpg";
-import vetez from "../images/vetez.jpg";
+import DashTap from "../images/DashTap.jpg";
 
 
 export const Bio = {
@@ -356,7 +356,7 @@ export const projects = [
     title: "Vehicle Entrance Management System (VEMS)",
     date: "Jan 2024 - May 2024",
     description:
-      "AutoDOC website is a digital platform that streamlines the process of booking, tracking, and managing vehicle maintenance and repair services. It allows customers to schedule service appointments, view service history, and connect with service providers efficiently, improving overall customer experience and workshop productivity.",
+      "This system automates the process of tracking vehicle entries and exits in a parking area. It integrates number plate recognition, entry/exit time logging, and parking space management.",
     image:VEMS,
     tags: [
       "React Js",
@@ -408,56 +408,55 @@ export const projects = [
 
   {
     id: 2,
-    title: "VetEZ",
-    date: "Jan 2023 - Mar 2023",
+    title: "DashTap",
+    date: "2024",
     description:
-      "VetEZ is a software application designed to streamline operations and enhance pet vaccination management within veterinary clinics. It aims to offer a user-friendly and comprehensive platform that simplifies administrative tasks, improves communication with pet owners, and ultimately contributes to better pet health outcomes.",
-    image:vetez,
+      "A web/mobile platform to book vehicles and professional drivers for personal or business use. The system supports real-time availability, booking management, and driver tracking.",
+    image:DashTap,
     tags: [
       "React Js",
       "HTML",
       "CSS",
-      "Node Js",
-      "Express Js",
+      "Spring Boot",
       "MySQL",
     ],
     category: "web app",
     
     github: "https://github.com/Visal2000/veterinary_system",
     //webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Visal Hewage",
-        img: `https://github.com/Visal2000.png`,
-        //linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/Visal2000",
-      },
-      {
-        name: "Tharusha Ishan",
-        img: `https://github.com/Tharusha553.png`,
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/Tharusha553",
-      },
-      {
-        name: "Yasantha Ravindu",
-        img: `https://github.com/Ravindu9EV.png`,
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/Ravindu9EV",
-      },
+    // member: [
+    //   {
+    //     name: "Visal Hewage",
+    //     img: `https://github.com/Visal2000.png`,
+    //     //linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/Visal2000",
+    //   },
+    //   {
+    //     name: "Tharusha Ishan",
+    //     img: `https://github.com/Tharusha553.png`,
+    //     //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/Tharusha553",
+    //   },
+    //   {
+    //     name: "Yasantha Ravindu",
+    //     img: `https://github.com/Ravindu9EV.png`,
+    //     //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/Ravindu9EV",
+    //   },
       
-      {
-        name: "Sachintha Jayaweera",
-        img: `https://github.com/Sachinthajayaweera.png`,
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/Sachinthajayaweera",
-      },
-      {
-        name: "Chamika Herath",
-        img: `https://github.com/Chamika-Herath.png`,
-        //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/Chamika-Herath",
-      },
-    ],
+    //   {
+    //     name: "Sachintha Jayaweera",
+    //     img: `https://github.com/Sachinthajayaweera.png`,
+    //     //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/Sachinthajayaweera",
+    //   },
+    //   {
+    //     name: "Chamika Herath",
+    //     img: `https://github.com/Chamika-Herath.png`,
+    //     //linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/Chamika-Herath",
+    //   },
+    // ],
   },
   
  
